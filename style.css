@@ -7,3 +7,7 @@
 body{
     text-align: center;
 }
+
+.Kamciu > ul >li{
+    color: blue;
+}
